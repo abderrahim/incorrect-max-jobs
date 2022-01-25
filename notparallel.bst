@@ -1,4 +1,4 @@
 kind: manual
 
-depends:
-- parallel.bst
+variables:
+  notparallel: True
